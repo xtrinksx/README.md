@@ -13,7 +13,16 @@ Atualmente, me dedico a aprender e praticar os fundamentos de desenvolvimento we
 💡 Estou sempre em busca de maneiras de resolver problemas e de tornar a tecnologia acessível e útil para tudo e todos.
 Estou começando minha jornada no mundo da tecnologia, e acredito que o aprendizado contínuo e a troca de experiências com a comunidade são essenciais para crescer nesse campo!
 📫 Contato: iisaacmatos@gmail.com
-<!---
-xtrinksx/xtrinksx is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=QuasarJ03131806&show_icons=true&theme=tokyonight&hide_title=false" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=QuasarJ03131806&layout=compact&theme=tokyonight" />
+</p>
+
+## 🚀 Linguagens e Tecnologias
+
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python" />
+</p>
